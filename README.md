@@ -1,2 +1,2 @@
 ## Learning About Version Control
-#author: Forgive Agbesi
+# author: Forgive Agbesi
